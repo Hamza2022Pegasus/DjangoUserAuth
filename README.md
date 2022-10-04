@@ -1,1 +1,2 @@
 # DjangoUserAuth
+<!-- Requires virtual environment -->
